@@ -1,1 +1,9 @@
-streamlit==1.31.0roboflow==1.1.9inference-sdk==0.10.0numpy==1.26.3matplotlib==3.8.2scikit-learn==1.4.0Pillow==10.2.0requests==2.31.0
+streamlit
+roboflow>=1.0.0,<2.0.0
+opencv-python-headless>=4.8.0.76
+numpy>=1.23.5
+matplotlib
+scikit-learn
+Pillow
+requests
+inference-sdk>=0.29.2
